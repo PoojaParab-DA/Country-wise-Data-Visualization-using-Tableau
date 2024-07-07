@@ -17,7 +17,8 @@ Load the data
 4. Click the + icon to add another data source. Start with the energy dataset.
 5. Repeat step 4 for the other datasets, gdptotal and totalpopulation.
 Now, you should have all four datasets loaded into Tableau. The datasets will be on the left-hand side of your screen under Connections.
+![connections](https://github.com/PoojaParab-DA/Tableau/assets/172165136/39ce8fa6-d917-4aff-a406-1c26cce650eb) 
 
-#### 3Step 3
+#### Step 3
 
 
