@@ -32,7 +32,13 @@ Make connections with join
 9. Select Country Name on the left side and Country on the right side.
 10. Click the X to close the dropdown menu.
 
+![join1](https://github.com/PoojaParab-DA/Tableau/assets/172165136/a34aac19-bbbf-4eec-b538-2ae972605b44)
 
+11. Click Update now to examine the dataset. You will notice that Year and Year1 have a number sign above them. Change the data type to date for each of these columns. 
+12. In the column, Year click on the # (not the arrow next to it) and select Date from the available options. 
+After completing the first field, you will notice a red exclamation mark between CO2 Data Cleaned and Energy. This indicates that the columns you have joined are no longer of the same data type. One is formatted as date, and the other numeric.
+You will also notice that after changing Year (CO2 Data Cleaned) to a Date type, the data preview pane will no longer display properly.
+13. To fix this, go to the column list in the lower left of the screen. 
 
 
 
