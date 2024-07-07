@@ -148,5 +148,7 @@ The lowest CO2 Per Capita emission for any year is 0.0396 and the largest is 61.
 
 ![viz1](https://github.com/PoojaParab-DA/Tableau/assets/172165136/c054fa94-ee32-494c-a7b3-c44769849751)
 
+![viz2](https://github.com/PoojaParab-DA/Tableau/assets/172165136/6f10fc7f-0971-4677-92bd-2a3c91de48f6)
+
 Hence, the visualization using Tableau was created.
 
