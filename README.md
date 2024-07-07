@@ -15,6 +15,9 @@ Load the data
 2. From the Connect to Data window, go to the Files tab and open the CO2 dataset you downloaded earlier.
 3. From the Data Source tab on the bottom of the interface, go to the Connections header at the top of the left-side column.
 4. Click the + icon to add another data source. Start with the energy dataset.
-5. Repeat step 5 for the other datasets, gdptotal and totalpopulation.
+5. Repeat step 4 for the other datasets, gdptotal and totalpopulation.
 Now, you should have all four datasets loaded into Tableau. The datasets will be on the left-hand side of your screen under Connections.
+
+#### 3Step 3
+
 
