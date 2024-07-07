@@ -97,6 +97,8 @@ If the data preview does not display properly, fix the date type in the lower le
 
 19. Click the Update button to view your data columns.
 
+    ![connections](https://github.com/PoojaParab-DA/Tableau/assets/172165136/ffae6a02-3992-43bc-81ee-b3678d6a1470)
+
 If the dataset had gone beyond those dates, you would have filtered out the unneeded years in your visualization.
 
 Reviewing the dataset, you may have noticed that some of your measurement values need to be changed. The data type for the column Energy use is listed as string data. You can tell this because of the Abc icon above the name. The column currentGDP is also formatted as type string.
@@ -143,6 +145,8 @@ The lowest CO2 Per Capita emission for any year is 0.0396 and the largest is 61.
 14. 14. Click on the arrow to the right of YEAR(Year) on the far-right side of the screen.
 
 15. Select Single Value (dropdown). Now the areas are colored only for the values of each year. Use the checkboxes in the list to choose which years you want to include in the visualization. You can select only the years between 2000-2011 to view the emissions relevant to the scenario.
+
+![viz1](https://github.com/PoojaParab-DA/Tableau/assets/172165136/c054fa94-ee32-494c-a7b3-c44769849751)
 
 Hence, the visualization using Tableau was created.
 
