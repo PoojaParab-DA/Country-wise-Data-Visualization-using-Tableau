@@ -20,5 +20,19 @@ Now, you should have all four datasets loaded into Tableau. The datasets will be
 ![connections](https://github.com/PoojaParab-DA/Tableau/assets/172165136/39ce8fa6-d917-4aff-a406-1c26cce650eb) 
 
 #### Step 3
+Make connections with join
+1. Click on CO2 under Connections. 
+2. Under Sheets, you will notice all the different sheets in the CO2 dataset. Find CO2 Data Cleaned and double-click on it to load it.
+3. Hover your cursor over the right side of the CO2 Data Cleaned box and click on the arrow.
+4. Select Open to open the CO2 Data Cleaned dataset. Make sure you complete this step. This allows you to change the physical table, which will allow you to create JOINs. Otherwise, you will only be able to edit Relationships. Usually, you could use either option to accomplish the same goal. But for the purposes of this activity, we specifically want to use JOINs.
+5. Click on the energy dataset under Connections.
+6. Drag the energy sheet across to the CO2 Data Cleaned box under Multiple Connections. A Join pop-up window will appear.
+7. The popup window may automatically populate with Year from CO2 Data Cleaned and Year1 from Energy. If not, put Year on the left side of the chart and Year1 on the right side.
+8. Click on Add new join clause under Year. A dropdown menu will appear.
+9. Select Country Name on the left side and Country on the right side.
+10. Click the X to close the dropdown menu.
+
+
+
 
 
